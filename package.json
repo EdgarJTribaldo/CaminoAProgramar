@@ -1,0 +1,16 @@
+{
+  "name": "pure-blog",
+  "version": "1.0.0",
+  "description": "html, css, js codigo puro ",
+  "main": "server.js ",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Edgar J Tribaldo",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.16"
+  }
+}
